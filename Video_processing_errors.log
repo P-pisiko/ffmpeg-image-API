@@ -1,0 +1,5 @@
+2026-02-15 17:07:22 | Error: ConnectionError - HTTPConnectionPool(host='10.0.0.244', port=5000): Max retries exceeded with url: /process/ (Caused by NewConnectionError("HTTPConnection(host='10.0.0.244', port=5000): Failed to establish a new connec
+2026-02-15 17:07:27 | Error: ConnectionError - HTTPConnectionPool(host='10.0.0.244', port=5000): Max retries exceeded with url: /process/ (Caused by NewConnectionError("HTTPConnection(host='10.0.0.244', port=5000): Failed to establish a new connec
+2026-02-15 17:11:33 | Error: HTTP 404 | Response: 404 page not found
+2026-02-15 17:11:35 | Error: HTTP 404 | Response: 404 page not found
+2026-02-15 17:11:37 | Error: HTTP 404 | Response: 404 page not found
